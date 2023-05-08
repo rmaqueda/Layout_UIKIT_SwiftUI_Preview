@@ -1,4 +1,4 @@
-./build/**
-./derivedData/**
-./Pods/**
+build/**
+derivedData/**
+Pods/**
 .scannerwork/**
