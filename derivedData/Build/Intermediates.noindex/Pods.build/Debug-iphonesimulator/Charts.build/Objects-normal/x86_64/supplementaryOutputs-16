@@ -1,0 +1,40 @@
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererRadarChart.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererRadarChart.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererRadarChart.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererRadarChart.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Components/YAxis.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxis.swiftdeps"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxis.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxis.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxis.d"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererRadarChart.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererRadarChart.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererRadarChart.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererRadarChart.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/Scatter/XShapeRenderer.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XShapeRenderer.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XShapeRenderer.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XShapeRenderer.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XShapeRenderer.o"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift":
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererHorizontalBarChart.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererHorizontalBarChart.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererHorizontalBarChart.d"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRendererHorizontalBarChart.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ZoomViewJob.swiftdeps"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ZoomViewJob.dia"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ZoomViewJob.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ZoomViewJob.d"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRenderer.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRenderer.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRenderer.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/YAxisRenderer.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererHorizontalBarChart.dia"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererHorizontalBarChart.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererHorizontalBarChart.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRendererHorizontalBarChart.d"

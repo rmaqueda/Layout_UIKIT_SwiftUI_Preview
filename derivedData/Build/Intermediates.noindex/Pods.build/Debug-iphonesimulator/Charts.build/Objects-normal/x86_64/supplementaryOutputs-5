@@ -1,0 +1,45 @@
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Implementations/ChartBaseDataSet.swift":
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartBaseDataSet.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartBaseDataSet.d"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartBaseDataSet.swiftdeps"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartBaseDataSet.dia"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Interfaces/ChartDataProvider.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataProvider.swiftdeps"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataProvider.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataProvider.d"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataProvider.dia"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Highlight/ChartHighlighter.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartHighlighter.dia"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartHighlighter.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartHighlighter.d"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartHighlighter.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartData.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartData.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartData.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartData.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartData.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntry.swift":
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntry.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntry.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntry.d"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntry.dia"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataSet.swift":
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSet.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSet.d"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSet.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSet.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Interfaces/ChartDataSetProtocol.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSetProtocol.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSetProtocol.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSetProtocol.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataSetProtocol.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntryBase.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntryBase.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntryBase.d"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntryBase.dia"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartDataEntryBase.o"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Utils/ChartColorTemplates.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartColorTemplates.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartColorTemplates.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartColorTemplates.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ChartColorTemplates.dia"

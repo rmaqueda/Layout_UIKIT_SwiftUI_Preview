@@ -1,0 +1,7 @@
+retain_objc_accessible: true
+retain_public: true
+schemes:
+- Layout_UIKIT_SwiftUI_Preview
+targets:
+- Layout_UIKIT_SwiftUI_Preview
+workspace: Layout_UIKIT_SwiftUI_Preview.xcworkspace

@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+SwiftAlgorithms in Pods, no dependencies
+Charts in Pods, depends on:
+SwiftAlgorithms in Pods (explicit)
+Pods-Layout_UIKIT_SwiftUI_Preview in Pods, depends on:
+Charts in Pods (explicit)
+SwiftAlgorithms in Pods (explicit)
+Layout_UIKIT_SwiftUI_Preview in Layout_UIKIT_SwiftUI_Preview, depends on:
+Pods-Layout_UIKIT_SwiftUI_Preview in Pods (implicit dependency via file 'Pods_Layout_UIKIT_SwiftUI_Preview.framework' in build phase 'Link Binary')
+SwiftAlgorithms in Pods (implicit dependency via options '-framework Algorithms' in build setting 'OTHER_LDFLAGS')
+Charts in Pods (implicit dependency via options '-framework Charts' in build setting 'OTHER_LDFLAGS')
+Layout_UIKIT_SwiftUI_PreviewTests in Layout_UIKIT_SwiftUI_Preview, depends on:
+Layout_UIKIT_SwiftUI_Preview in Layout_UIKIT_SwiftUI_Preview (explicit)

@@ -1,0 +1,75 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "564532d62207870f8529df7faf458e1696b5b5982b691acd26e8a6b3b71547a5"
+    },
+    {
+      "guid" : "564532d62207870f8529df7faf458e1618fea5c6e5a2f20867c6ed83d04c5fa8"
+    }
+  ],
+  "containerPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Layout_UIKIT_SwiftUI_Preview.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Products",
+      "derivedDataPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData",
+      "indexDataStoreFolderPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphonesimulator16.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/ProfileData",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "222",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "58FC7389-336A-44FE-B23F-AED0EDF44C05",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

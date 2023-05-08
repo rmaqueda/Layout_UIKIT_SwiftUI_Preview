@@ -1,0 +1,20 @@
+@font-face
+{
+    font-family: 'VodafoneApp-Regular';
+    font-weight: normal;
+    src: url(VodafoneApp-Regular.ttf);
+}
+
+@font-face
+{
+    font-family: 'VodafoneApp-SemiBold';
+    font-weight: normal;
+    src: url(VodafoneApp-SemiBold.ttf);
+}
+
+@font-face
+{
+    font-family: 'VodafoneApp-Medium';
+    font-weight: normal;
+    src: url(VodafoneApp-Medium.ttf);
+}

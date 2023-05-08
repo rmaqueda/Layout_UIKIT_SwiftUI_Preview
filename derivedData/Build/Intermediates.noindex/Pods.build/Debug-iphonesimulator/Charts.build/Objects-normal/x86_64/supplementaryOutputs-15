@@ -1,0 +1,40 @@
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortHandler.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortHandler.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortHandler.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortHandler.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Utils/TransformerHorizontalBarChart.swift":
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TransformerHorizontalBarChart.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TransformerHorizontalBarChart.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TransformerHorizontalBarChart.swiftdeps"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TransformerHorizontalBarChart.d"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Formatters/ValueFormatter.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ValueFormatter.swiftdeps"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ValueFormatter.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ValueFormatter.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ValueFormatter.o"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRenderer.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRenderer.o"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRenderer.swiftdeps"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxisRenderer.dia"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Renderers/Scatter/TriangleShapeRenderer.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TriangleShapeRenderer.d"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TriangleShapeRenderer.swiftdeps"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TriangleShapeRenderer.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/TriangleShapeRenderer.dia"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Components/XAxis.swift":
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxis.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxis.o"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxis.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/XAxis.swiftdeps"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Utils/Transformer.swift":
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/Transformer.dia"
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/Transformer.swiftdeps"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/Transformer.o"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/Transformer.d"
+"/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift":
+  swift-dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortJob.swiftdeps"
+  diagnostics: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortJob.dia"
+  dependencies: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortJob.d"
+  object: "/Users/rmaqueda/Repos/Layout_UIKIT_SwiftUI_Preview/derivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/ViewPortJob.o"
