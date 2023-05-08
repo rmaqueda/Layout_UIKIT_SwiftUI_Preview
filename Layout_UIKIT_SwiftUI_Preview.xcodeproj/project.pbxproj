@@ -14,6 +14,7 @@
 		11A1F31929F504AF007FDDE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11A1F31729F504AF007FDDE7 /* LaunchScreen.storyboard */; };
 		11A1F32629F50793007FDDE7 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A1F32529F50793007FDDE7 /* SwiftUIView.swift */; };
 		11CA19742A0770B20063B83E /* Layout_UIKIT_SwiftUI_PreviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11CA19732A0770B20063B83E /* Layout_UIKIT_SwiftUI_PreviewTests.swift */; };
+		11FFD2002A08DB4800B22647 /* Delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FFD1FF2A08DB4800B22647 /* Delete.swift */; };
 		5F0990F9FEE3E223BFB8E474 /* Pods_Layout_UIKIT_SwiftUI_Preview.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F719A53A78B3E88BF195EC5 /* Pods_Layout_UIKIT_SwiftUI_Preview.framework */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		11A1F32529F50793007FDDE7 /* SwiftUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		11CA19712A0770B20063B83E /* Layout_UIKIT_SwiftUI_PreviewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Layout_UIKIT_SwiftUI_PreviewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11CA19732A0770B20063B83E /* Layout_UIKIT_SwiftUI_PreviewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layout_UIKIT_SwiftUI_PreviewTests.swift; sourceTree = "<group>"; };
+		11FFD1FF2A08DB4800B22647 /* Delete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delete.swift; sourceTree = "<group>"; };
 		20A80F50EE3E3C4F2590C91D /* Pods-Layout_UIKIT_SwiftUI_Preview.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Layout_UIKIT_SwiftUI_Preview.debug.xcconfig"; path = "Target Support Files/Pods-Layout_UIKIT_SwiftUI_Preview/Pods-Layout_UIKIT_SwiftUI_Preview.debug.xcconfig"; sourceTree = "<group>"; };
 		623A531C5046EC8BE2BCF3C6 /* Pods-Layout_UIKIT_SwiftUI_Preview.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Layout_UIKIT_SwiftUI_Preview.release.xcconfig"; path = "Target Support Files/Pods-Layout_UIKIT_SwiftUI_Preview/Pods-Layout_UIKIT_SwiftUI_Preview.release.xcconfig"; sourceTree = "<group>"; };
 		8F719A53A78B3E88BF195EC5 /* Pods_Layout_UIKIT_SwiftUI_Preview.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Layout_UIKIT_SwiftUI_Preview.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				119D5BD429FA6F24005F2FB4 /* ViewControllerChart.swift */,
+				11FFD1FF2A08DB4800B22647 /* Delete.swift */,
 				11A1F32529F50793007FDDE7 /* SwiftUIView.swift */,
 				11A1F32029F504C8007FDDE7 /* Support Files */,
 			);
@@ -273,6 +276,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11FFD2002A08DB4800B22647 /* Delete.swift in Sources */,
 				11A1F30D29F504AE007FDDE7 /* AppDelegate.swift in Sources */,
 				11A1F32629F50793007FDDE7 /* SwiftUIView.swift in Sources */,
 				119D5BD529FA6F24005F2FB4 /* ViewControllerChart.swift in Sources */,

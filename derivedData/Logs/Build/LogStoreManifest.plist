@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>59321FE4-F443-4908-AC19-34C6810C181C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59321FE4-F443-4908-AC19-34C6810C181C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Layout_UIKIT_SwiftUI_Preview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Layout_UIKIT_SwiftUI_Preview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace Layout_UIKIT_SwiftUI_Preview with scheme Layout_UIKIT_SwiftUI_Preview</string>
+			<key>timeStartedRecording</key>
+			<real>705224696.56667197</real>
+			<key>timeStoppedRecording</key>
+			<real>705224717.094239</real>
+			<key>title</key>
+			<string>Testing workspace Layout_UIKIT_SwiftUI_Preview with scheme Layout_UIKIT_SwiftUI_Preview</string>
+			<key>uniqueIdentifier</key>
+			<string>59321FE4-F443-4908-AC19-34C6810C181C</string>
+		</dict>
+		<key>DE546C84-40E5-4AF7-A8FA-01DF624D973A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE546C84-40E5-4AF7-A8FA-01DF624D973A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Layout_UIKIT_SwiftUI_Preview project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Layout_UIKIT_SwiftUI_Preview</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning workspace Layout_UIKIT_SwiftUI_Preview with scheme Layout_UIKIT_SwiftUI_Preview</string>
+			<key>timeStartedRecording</key>
+			<real>705224696.43033099</real>
+			<key>timeStoppedRecording</key>
+			<real>705224696.56315196</real>
+			<key>title</key>
+			<string>Cleaning workspace Layout_UIKIT_SwiftUI_Preview with scheme Layout_UIKIT_SwiftUI_Preview</string>
+			<key>uniqueIdentifier</key>
+			<string>DE546C84-40E5-4AF7-A8FA-01DF624D973A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
